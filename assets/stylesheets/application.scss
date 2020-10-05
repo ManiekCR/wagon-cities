@@ -9,7 +9,7 @@ body {
   .cities {
     width: 30%;
     .selected {
-      color: yellow;
+      color: #E45D60;
     }
   }
   .active-city {
@@ -29,6 +29,11 @@ body {
       max-width: 100%;
     }
   }
+}
+
+.header {
+  color: #E45D60;
+  text-align: center;
 }
 
 .list-group-item {
