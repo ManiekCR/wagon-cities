@@ -1,10 +1,8 @@
-# redux-boilerplate
-
-Simple React + Redux starter with the following config:
+This is my first React + Redux to visualize different LeWagon's places, with the following config:
 
 - React, ReactDOM
 - Redux, React-Redux
-- Webpack 3
+- Webpack
 - Babel with es2015 and react presets
 - Bootstrap (css only, loaded from a cdn in `index.html`)
 - work with `.js` or `.jsx` files
