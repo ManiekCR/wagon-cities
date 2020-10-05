@@ -8,6 +8,9 @@ body {
   display: flex;
   .cities {
     width: 30%;
+    .selected {
+      color: yellow;
+    }
   }
   .active-city {
     width: 70%;
